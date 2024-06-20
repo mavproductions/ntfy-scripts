@@ -1,0 +1,1 @@
+curl -d "RDP Connection Established" ntfy.sh/youShouldSelfHostOrBuyPremium
